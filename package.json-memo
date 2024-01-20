@@ -1,0 +1,17 @@
+{
+  "name": "qwark",
+  "version": "0.0.3",
+  "description": "A Phaser 3 webApp creator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
